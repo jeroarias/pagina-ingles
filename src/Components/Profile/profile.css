@@ -1,0 +1,9 @@
+
+.profile{
+    height: 15%;
+    width: 40%;
+    margin: 5px;
+    border-radius: 50rem;
+    border: solid 2px rgb(202, 200, 200);
+    background-color: rgb(202, 200, 200);
+}
